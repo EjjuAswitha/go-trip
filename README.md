@@ -18,6 +18,12 @@ https://jolly-pebble-0fa4ade10.1.azurestaticapps.net/
 ![image](https://user-images.githubusercontent.com/95036386/181721100-583c5d43-dc19-4416-a0e5-84d0ae687dcb.png)
 
 
+# video of project
+
+
+
+https://user-images.githubusercontent.com/95036386/181724472-ef8b7201-161e-4f9d-ad8a-c66b855ae361.mp4
+
 
 
 
