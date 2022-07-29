@@ -1,5 +1,7 @@
 # go-trip
-frt project
+this is my frt project.
+Our web applications Sight Seeing is expected to take care of this issue. In the present situation, there isn’t any application that would help a vacationer to get data about the place they are as of now going by in their versatile phone.Our application Sight Seeing is expected to take care of this issue.
+In current tourism framework, at whatever point a visitor visits well-known spots, to find out about the place he procures a guide.
 
 # azure link
 https://jolly-pebble-0fa4ade10.1.azurestaticapps.net/
