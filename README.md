@@ -4,6 +4,9 @@ frt project
 # azure link
 https://jolly-pebble-0fa4ade10.1.azurestaticapps.net/
 
+# azure link
+Azure Static Web App Azure Static Web Apps allows you to build modern web applications that automatically publish to the web as your code changes.
+
 
 # project screenshots
 
